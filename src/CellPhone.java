@@ -1,4 +1,6 @@
 /**
+ * Sample class
+ *
  * Created by deran on 06/11/2017.
  */
 public class CellPhone extends ElectronicProduct {
